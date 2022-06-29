@@ -1,4 +1,4 @@
-body {
+bbody {
   background-color:gray;
 }
 
@@ -11,7 +11,7 @@ h1{
 img{
     width:200px;
   }
-  padding-left: 10px;
+  padding-left: 400px;
   border: 1px solid black;
 
 }
